@@ -1,0 +1,10 @@
+C:\Users\Steppy\source\repos\VoiceTalking\VoiceTalking\obj\Debug\VoiceTalking.csprojAssemblyReference.cache
+C:\Users\Steppy\source\repos\VoiceTalking\VoiceTalking\obj\Debug\VoiceTalking.csproj.GenerateResource.cache
+C:\Users\Steppy\source\repos\VoiceTalking\VoiceTalking\obj\Debug\VoiceTalking.csproj.CoreCompileInputs.cache
+C:\Users\Steppy\source\repos\VoiceTalking\VoiceTalking\obj\Debug\VoiceTalking.Form1.resources
+C:\Users\Steppy\source\repos\VoiceTalking\VoiceTalking\bin\Debug\VoiceTalkingf.exe.config
+C:\Users\Steppy\source\repos\VoiceTalking\VoiceTalking\bin\Debug\VoiceTalkingf.exe
+C:\Users\Steppy\source\repos\VoiceTalking\VoiceTalking\bin\Debug\VoiceTalkingf.pdb
+C:\Users\Steppy\source\repos\VoiceTalking\VoiceTalking\obj\Debug\VoiceTalkingf.exe
+C:\Users\Steppy\source\repos\VoiceTalking\VoiceTalking\obj\Debug\VoiceTalkingf.pdb
+C:\Users\Steppy\source\repos\VoiceTalking\VoiceTalking\obj\Debug\VoiceTalkingd.Properties.Resources.resources
